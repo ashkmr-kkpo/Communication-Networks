@@ -1,0 +1,29 @@
+test results:
+
+ Simple topology succeeded!
+ Two paths with equal costs succeeded!
+ Path change to unreachable succeeded!
+ Link addition succeeded!
+ Topology in MP instructions succeeded!
+ Changes to topology in MP instructions succeeded!
+ Changes to topology in MP instructions, 1 path unreachable succeeded!
+ Multiple changes to topology in MP instructions succeeded!
+ 8 node topology succeeded!
+ DV: Simple topology succeeded!
+ DV: Two paths with equal costs succeeded!
+ DV: Path change to unreachable succeeded!
+ DV: Link addition succeeded!
+ DV: Topology in MP instructions succeeded!
+ DV: Changes to topology in MP instructions succeeded!
+ DV: Changes to topology in MP instructions, 1 path unreachable succeeded!
+ DV: Multiple changes to topology in MP instructions succeeded!
+ DV: 8 node topology succeeded!
+(current version late: -0)
+
+====================
+
+version:17
+score: 100/100
+all-time best score (your current grade): 100/100
+
+
